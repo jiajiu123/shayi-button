@@ -1,11 +1,5 @@
 [
   {
-    "name": "mua",
-    "translate": {
-      "zh-CN": "mua"
-    }
-  },
-  {
     "name": "你再骂",
     "translate": {
       "zh-CN": "你再骂！（恳求）"
@@ -30,9 +24,9 @@
     }
   },
   {
-    "name": "可爱捏",
+    "name": "攻击性",
     "translate": {
-      "zh-CN": "可爱捏"
+      "zh-CN": "好强的攻击性"
     }
   }
 ]
