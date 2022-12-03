@@ -1,9 +1,38 @@
 [
   {
+    "name": "mua",
+    "translate": {
+      "zh-CN": "mua"
+    }
+  },
+  {
+    "name": "你再骂",
+    "translate": {
+      "zh-CN": "你再骂！（恳求）"
+    }
+  },
+  {
     "name": "名言",
     "translate": {
-      "zh-CN": "猫猫名言~",
-      "en-US": "Witticisms~"
+      "zh-CN": "名言"
+    }
+  },
+  {
+    "name": "日常",
+    "translate": {
+      "zh-CN": "日常"
+    }
+  },
+  {
+    "name": "纱乐器",
+    "translate": {
+      "zh-CN": "纱乐器"
+    }
+  },
+  {
+    "name": "可爱捏",
+    "translate": {
+      "zh-CN": "可爱捏"
     }
   }
 ]

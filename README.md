@@ -1,191 +1,71 @@
-# 语音按钮模板
+# 纱依按钮
 
-### 需要修改的部分
-
-#### package.json
-
-- **name**字段
-
-#### setting 文件夹
-
-- **color.styl** 颜色配置
-
-```styl
-<!-- 主颜色 -->
-$main-color = #F5C1BB
-<!-- 夜间模式主颜色 -->
-$main-color-dark = rgba(245,193,187,0.9)
-<!-- 副颜色 -->
-$sub-color = #F5F0F2
-<!-- 夜间模式副颜色 -->
-$sub-color-dark = rgba(245, 240, 242,0.9)
-<!-- 按钮文字颜色 -->
-$btn-text-color = #5F505F
-<!-- 控制栏文字颜色 -->
-$title-color = #5F505F
-<!-- 夜间模式控制栏文字颜色 -->
-$title-color-dark = #999999
-<!-- 控制栏按钮active颜色 -->
-$icon-active-color = #ff9488
-<!-- 按钮hover颜色 -->
-$hover-color = #bbc5cf
-<!-- 按钮active颜色 -->
-$active-color = #93a3b3
-```
-
-- **setting.json**项目配置
-
-```jsonc
-{
-  // 是否使用多语言
-  "i18n": true,
-  // 是否使用猫耳按钮
-  "neko_mimi": true,
-  "name": {
-    "CN": {
-      // Header和网站名
-      "title": "语音按钮",
-      // MediaSession歌手
-      "fullName": ""
-    },
-    "EN": {
-      "title": "Voives Button",
-      "fullName": ""
-    }
-  },
-  // Readme组件显示文字，支持HTML
-  "readme": "",
-  "header": {
-    // Header图标URL
-    "icon": "img/logo.svg",
-    // 外链按钮地址
-    "youtube": "",
-    "twitter": "",
-    "bilibili": ""
-  },
-  // 相关链接，格式与友链相同
-  "related": [],
-  // 友链列表
-  "link": [
-    {
-      // 友链按钮名
-      "name": "Hiiro按钮",
-      // 友链地址
-      "url": "https: //hiiro.club/",
-      // 友链按钮颜色
-      "background": "#F5C1BB",
-      // 友链按钮文字颜色
-      "color": "#5F505F"
-    }
-  ],
-  "footer": {
-    // 作者列表
-    "author": [
-      {
-        // 作者名
-        "name": "Blacktunes",
-        // 作者URL，可选
-        "url": "https://github.com/blacktunes"
-      }
-    ],
-    // 页脚说明列表，支持HTML
-    "info": [""],
-    // 项目Github图标地址
-    "githubUrl": "https://github.com/blacktunes/voices-button"
-  },
-  // 控制台输出
-  "console": {
-    // 控制台输出文字
-    "text": "https://github.com/blacktunes/voices-button",
-    // 字号，默认16px
-    "size": "",
-    // 文字颜色
-    "color": "",
-    // 控制台输出图片名，请放到public/img文件夹
-    "img": "",
-    // 图片宽度，默认100%
-    "imgWidth": "",
-    // 图片高度，默认100%
-    "imgHeight": ""
-  },
-  // MediaSession专辑图片名，请放到public/img文件夹
-  "mediaSession": "",
-  // 语音CDN地址
-  "CDN": ""
-}
-```
-
-#### setting/translate 文件夹
-
-`category.json`和`locales.json`为固定命名，请勿修改
-
-- **category.json** 分类列表
-
-```jsonc
-[
-  {
-    // 分类命名
-    "name": "名言",
-    // 是否隐藏
-    "hide": true,
-    "translate": {
-      // 分类中文翻译
-      "zh-CN": "猫猫名言~",
-      // 分类英文翻译
-      "en-US": "witticism~"
-    }
-  }
-]
-```
-
-- 语音列表文件可任意命名
-
-```jsonc
-[
-  {
-    // 语音命名
-    "name": "baba",
-    // 语音文件名
-    "path": "baba.mp3",
-    // 是否隐藏
-    "hide": true,
-    "translate": {
-      // 语音中文翻译
-      "zh-CN": "米娜我是你爸爸",
-      // 语音英语翻译
-      "en-US": "I'm your Baba"
-    },
-    // 语音所属分类(对应category的name)
-    "category": "名言",
-    // 以下属性为可选
-    // hover时显示图片，请放到public/voices/img目录
-    "usePicture": {
-      "zh-CN": "",
-      "en-US": ""
-    },
-    // 添加时间
-    "date": "2020-11-11",
-    // 语音出处
-    "mark": {
-      "title": "【Hiiro】读评论 学中文 DD们的评论都是什么东西啊？",
-      "time": "0:01~0:03",
-      "url": "https://www.bilibili.com/video/BV1ET4y177A8"
-    }
-  }
-]
-```
-
-#### public 文件夹
-
-- **index.html**的**title**标签
-- **favicon.ico**(网站图标)
-
-### 说明
-
-- 点击标题可显示**隐藏**
-- 可以的话，请不要删除默认友链
+[![](http://i1.hdslb.com/bfs/archive/4633093bf4f942d1bc3ce80302eacac011b7898d.jpg@400h.webp)](https://live.bilibili.com/26168663)
 
 ### LICENSE
+- 此项目使用了**blacktunes**(https://github.com/blacktunes) 编写的**hiiro-button**(https://github.com/blacktunes/hiiro-button) 为模板
 
-- 使用[voices-button-cli](https://github.com/blacktunes/voices-button-cli)创建的语音按钮
-- 所用模板为[Hiiro 按钮](https://github.com/blacktunes/hiiro-button)
+### 项目链接
+
+ - http://shayi.love/
+ 
+ ### 相关链接：
+
+- [纱依 的 Bilibili 主页](https://space.bilibili.com/3461576189282324)
+- [纱之匣 的 Bilibili 主页](https://space.bilibili.com/3493088020400738)
+
+### 参与完善本项目
+
+- 您可以在[Issues](https://github.com/jiajiu123/shayi-button/issues)提出您的建议
+
+  - 若是请求添加新语音，请使用指定的**issues模板**
+  - 如能直接提供截取好的mp3音频请在Issues中附上下载链接
+  - 不熟悉**github**的用法也可以到[Bilibili](https://space.bilibili.com/160080754)或[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=Q20bRU3bej3KGC3d5jZKc1M2eIvxVauR)和我联系
+
+- 如果您可以进行开发，那么请**Fork**本项目进行修改，完成修改后在本项目中发起一个**Pull Request**
+   > **Pull Request**请提交至**dev**分支
+
+### 添加或修改音频
+
+音频文件推荐使用**mp3**格式，请放入`public/voices/`目录
+
+所有的分类和音频信息都存储在`setting/translate`目录的`json`文件中，**添加或修改音频信息**，你需要修改对应文件中的内容
+
+`locales.json`和`category.json`分别为 UI 界面翻译和分类信息，请不要修改文件名，语音信息可以使用除此外的任意名称，可使用多个`json`文件方便管理语音
+
+可使用`schema`文件夹中的`json`文件增加`json schema`约束和代码提醒
+
+`category.json`结构示例如下：
+
+```jsonc
+[
+  {
+    "name": "mua",
+    "translate": {
+      "zh-CN": "mua"
+    }
+  }
+]
+```
+
+语音文件结构示例如下：
+
+```jsonc
+
+[
+  {
+    "name": "mua",
+    "path": "mua.mp3",
+    "date": "2022-11-20",
+    "translate": {
+      "zh-CN": "mua"
+    },
+    "category": "mua",
+    "mark": {
+      "title": "2022-11-20【纱依】出道纪念直播后日谈",
+      "time": "23:28~23:29",
+      "url": "https://www.bilibili.com/video/BV1Ad4y1b7un"
+    }
+  }
+]
+```

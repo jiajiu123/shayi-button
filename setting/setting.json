@@ -1,13 +1,13 @@
 {
-  "i18n": true,
+  "i18n": false,
   "neko_mimi": true,
   "name": {
     "CN": {
-      "title": "语音按钮",
+      "title": "纱依按钮",
       "fullName": ""
     },
     "EN": {
-      "title": "Voives Button",
+      "title": "Shayi Button",
       "fullName": ""
     }
   },
@@ -16,32 +16,32 @@
     "icon": "img/logo.svg",
     "youtube": "",
     "twitter": "",
-    "bilibili": ""
+    "bilibili": "https://space.bilibili.com/3461576189282324"
   },
   "related": [],
   "link": [
     {
       "name": "Hiiro按钮",
-      "url": "https: //hiiro.club/",
+      "url": "https://hiiro.club/",
       "background": "#F5C1BB"
     },
     {
       "name": "七奈按钮",
-      "url": "https: //kaguranana.moe/",
+      "url": "https://kaguranana.moe/",
       "background": "#c4afd0"
     }
   ],
   "footer": {
     "author": [
       {
-        "name": "Blacktunes",
-        "url": "https://github.com/blacktunes"
+        "name": "jiajiu123",
+        "url": "https://github.com/jiajiu123"
       }
     ],
     "info": [
-      ""
+      "关注纱依shayi谢谢喵"
     ],
-    "githubUrl": "https://github.com/blacktunes/voices-button"
+    "githubUrl": "https://github.com/jiajiu123/shayi-button"
   },
   "console": {
     "text": "https://github.com/blacktunes/voices-button",

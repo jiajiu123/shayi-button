@@ -1,21 +1,114 @@
 [
   {
-    "name": "好耶",
-    "path": "好耶.mp3",
-    "date": "2020-11-25",
+    "name": "mua",
+    "path": "mua.mp3",
+    "date": "2022-11-20",
     "translate": {
-      "zh-CN": "好耶",
-      "en-US": "Haoye"
+      "zh-CN": "mua"
     },
-    "usePicture": {
-      "zh-CN": "好耶.jpg",
-      "en-US": "好耶.jpg"
-    },
-    "category": "名言",
+    "category": "mua",
     "mark": {
-      "title": "【Hiiro Record】11.24 Tue.读棉花糖",
-      "time": "59:33~59:34",
-      "url": "https://www.bilibili.com/video/BV1gy4y1q7cC"
+      "title": "2022-11-20【纱依】出道纪念直播后日谈",
+      "time": "23:28~23:29",
+      "url": "https://www.bilibili.com/video/BV1Ad4y1b7un"
+    }
+  },
+  {
+    "name": "晚上好 晚上好",
+    "path": "晚上好 晚上好.mp3",
+    "date": "2022-11-23",
+    "translate": {
+      "zh-CN": "晚上好 晚上好"
+    },
+    "category": "日常",
+    "mark": {
+      "title": "2022-11-23【纱依】简单地开会儿嗓+和薇Steria 一起玩the past within",
+      "time": "18:26~18:29",
+      "url": "https://www.bilibili.com/video/BV1LG4y1571u"
+    }
+  },
+  {
+    "name": "臭傻呗",
+    "path": "臭傻呗.mp3",
+    "date": "2022-11-23",
+    "translate": {
+      "zh-CN": "小可爱"
+    },
+    "category": "你再骂",
+    "mark": {
+      "title": "2022-11-23【纱依】简单地开会儿嗓+和薇Steria 一起玩the past within",
+      "time": "19:49~19:50",
+      "url": "https://www.bilibili.com/video/BV1LG4y1571u"
+    }
+  },
+  {
+    "name": "脏狗",
+    "path": "脏狗.mp3",
+    "date": "2022-11-23",
+    "translate": {
+      "zh-CN": "可爱"
+    },
+    "category": "你再骂",
+    "mark": {
+      "title": "2022-11-23【纱依】简单地开会儿嗓+和薇Steria 一起玩the past within",
+      "time": "19:50~19:51",
+      "url": "https://www.bilibili.com/video/BV1LG4y1571u"
+    }
+  },
+  {
+    "name": "滚出去",
+    "path": "滚出去.mp3",
+    "date": "2022-11-23",
+    "translate": {
+      "zh-CN": "欢迎你"
+    },
+    "category": "你再骂",
+    "mark": {
+      "title": "2022-11-23【纱依】简单地开会儿嗓+和薇Steria 一起玩the past within",
+      "time": "19:50~19:52",
+      "url": "https://www.bilibili.com/video/BV1LG4y1571u"
+    }
+  },
+  {
+    "name": "他妈的",
+    "path": "他妈的.mp3",
+    "date": "2022-12-01",
+    "translate": {
+      "zh-CN": "真可爱"
+    },
+    "category": "你再骂",
+    "mark": {
+      "title": "2022-12-1【纱依】女神异闻录5初见",
+      "time": "17:51~17:52",
+      "url": "https://www.bilibili.com/video/BV1WG4y1R75S"
+    }
+  },
+  {
+    "name": "滋滋滋",
+    "path": "滋滋滋.mp3",
+    "date": "2022-11-26",
+    "translate": {
+      "zh-CN": "滋乐器"
+    },
+    "category": "纱乐器",
+    "mark": {
+      "title": "2022-11-26【纱依】万粉_300舰纪念歌回",
+      "time": "02:07:36~02:07:37",
+      "url": "https://www.bilibili.com/video/BV1tM411k7tP"
+    }
+  },
+  {
+    "name": "你们这些龟孙子",
+    "path": "你们这些龟孙子.mp3",
+    "date": "2022-12-02",
+    "translate": {
+      "zh-CN":  "你们这些龟孙子"
+    },
+    "category": "你再骂",
+    "mark": {
+      "title": "2022-12-2【纱依】今天来聊聊游戏",
+      "time": "02:40:44~02:40:46",
+      "url": "https://www.bilibili.com/video/BV1V14y1J7Y3"
     }
   }
 ]
